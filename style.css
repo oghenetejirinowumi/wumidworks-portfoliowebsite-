@@ -194,8 +194,8 @@ body {
   position: relative;
   padding-top: 30px;
   font-size: 1.1rem;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 /* ABOUT SECTION */
@@ -353,6 +353,7 @@ body {
 }
 .contact-left p {
   font-family: "Segoe UI Variable", sans-serif;
+  color: white;
 }
 .contact-right {
   flex-basis: 55%;
